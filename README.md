@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![@royboylab's Holopin board](https://holopin.me/royboylab)](https://holopin.io/@royboylab)
 
 <!--
 **Soumyadip-Roy/Soumyadip-Roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
