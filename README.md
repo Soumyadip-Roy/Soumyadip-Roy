@@ -33,5 +33,3 @@
 
 [![@royboylab's Holopin board](https://holopin.me/royboylab)](https://holopin.io/@royboylab)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=soumyadip-roy&label=Profile%20Views&theme=react-dark&style=plastic" alt="Soumyadip-Roy" /> </p>
-
