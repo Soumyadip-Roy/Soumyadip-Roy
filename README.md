@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Soumyadip Roy</h1>
 <h3 align="center">Engineer from India</h3>
